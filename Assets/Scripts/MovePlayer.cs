@@ -25,7 +25,7 @@ public class MovePlayer : MonoBehaviour
     }
 
     /// <summary>
-    /// Движение с помощью джойстика
+    /// Р”РІРёР¶РµРЅРёРµ СЃ РїРѕРјРѕС‰СЊСЋ РґР¶РѕР№СЃС‚РёРєР°
     /// </summary>
     private void JoystickMove()
     {
@@ -42,7 +42,7 @@ public class MovePlayer : MonoBehaviour
     }
 
     /// <summary>
-    /// Устанавливает новую точку для передвижения Player
+    /// РЈСЃС‚Р°РЅР°РІР»РёРІР°РµС‚ РЅРѕРІСѓСЋ С‚РѕС‡РєСѓ РґР»СЏ РїРµСЂРµРґРІРёР¶РµРЅРёСЏ Player
     /// </summary>
     private void setTarget()
     {
@@ -62,7 +62,7 @@ public class MovePlayer : MonoBehaviour
     }
 
     /// <summary>
-    /// Двигает игрока на позицию клика
+    /// Р”РІРёРіР°РµС‚ РёРіСЂРѕРєР° РЅР° РїРѕР·РёС†РёСЋ РєР»РёРєР°
     /// </summary>
     private void Move()
     {
